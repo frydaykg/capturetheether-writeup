@@ -14,3 +14,4 @@ Writeup for [capturetheether.com](https://capturetheether.com)
 
 ### Miscellaneous
 * [Token bank](/Miscellaneous.%20Token%20bank/)
+* [Assume ownership](/Miscellaneous.%Assume%20ownership/)
